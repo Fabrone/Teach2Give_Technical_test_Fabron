@@ -1,3 +1,5 @@
+//Design a function that reverses the digits of an integer. For example, 50 should become 5 and -12 should become -21.
+
 import java.util.Scanner;
 
 public class DigitReverser {
